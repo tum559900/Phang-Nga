@@ -18,10 +18,6 @@
 	<link href="css/bootstrap-responsive.min.css" rel="stylesheet">
 	<link href="css/style.css" rel="stylesheet">
 
-  <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
-  <!--[if lt IE 9]>
-    <script src="js/html5shiv.js"></script>
-  <![endif]-->
 
   <!-- Fav and touch icons -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/apple-touch-icon-144-precomposed.png">
@@ -89,17 +85,9 @@ body,td,th {
 				<div>
 					<ul>
 						<li class="selected">
-							<a href="index.html"><span>Home</span></a>
+							<a href= "index.php"><span>Home</span></a>
 						</li>
-						<li>
-							<a href="about.html"><span>About</span></a>
-						</li>
-						<li>
-							<a href="blog.html"><span>Blog</span></a>
-						</li>
-						<li>
-							<a href="contact.html"><span>Contact</span></a>
-						</li>
+						
 												<li>
 							<a href="profile.html"><span>Profile</span></a>
 						</li>
@@ -122,32 +110,32 @@ body,td,th {
 				<div>
 					<ul>
 					  <li>
-							<a href="blog.html"><img src="images/page1_img1.jpg" width="228" height="228"></a></br>
+							<img src="images/page1_img1.jpg" width="228" height="228"></br>
 							<center><input type="button" value= "หมู่เกาะสิมิลัน" onclick= alert(json.name1);></center></br></br>
 
 						</li>
 						<li>
-							<a href="blog.html"><img src="images/page1_img2.jpg" width="228" height="228"></a></br>
+							<img src="images/page1_img2.jpg" width="228" height="228"></br>
 							<center><input type="button" value= "ชายทะเลท่านุ่น" onclick= alert(json.name2);></center></br></br>
 						</li>
 						<li>
-							<a href="blog.html"><img src="images/page1_img3.jpg" width="228" height="228"></a></br>
+							<img src="images/page1_img3.jpg" width="228" height="228"></br>
 							<center><input type="button" value= "เขาตะปู" onclick= alert(json.name3);></center></br></br>
 						</li>
 					</ul>
 					<ul>
 					  <li>
-							<a href="blog.html"><img src="images/tumpungchang.jpg" width="228" height="228"></a></br>
+							<img src="images/tumpungchang.jpg" width="228" height="228"></br>
 							<center><input type="button" value= "ถ้ำพุ้งช้าง" onclick= alert(json.name4);></center></br>
 							
 						</li>
 						<li>
-							<a href="blog.html"><img src="images/barnbordarn.jpg" width="228" height="228"></a></br>
+							<img src="images/barnbordarn.jpg" width="228" height="228"></br>
 							<center><input type="button" value= "บ่อน้ำพุร้อน-บ้านบ่อดาน" onclick= alert(json.name5);></center></br>
 							
 						</li>
 						<li>
-							<a href="blog.html"><img src="images/kaolumpee.jpg" width="228" height="228"></a></br>
+							<img src="images/kaolumpee.jpg" width="228" height="228"></br>
 							<center><input type="button" value= "อุทยานแห่งชาติเขาลำปี" onclick= alert(json.name6);></center></br>
 							
 						</li>

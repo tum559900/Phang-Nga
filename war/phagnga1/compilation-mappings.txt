@@ -4,13 +4,13 @@ user.agent ie9
 3FD136119CB2EB636F88E3EA145BCCE1.cache.js
 user.agent ie8
 
-50697C3B4EA4D228728631F7579790DC.cache.js
-user.agent safari
+669E02BAF5C4C840FE6D8E0CD621DDCA.cache.js
+user.agent gecko1_8
 
 71A30457F08D7C6E03C06E4ECFCEB8A8.cache.js
 user.agent ie10
 
-F226080ABE0CB6EFDD51A837F3E49AD4.cache.js
-user.agent gecko1_8
+FA13608C8C6549A4F4503B495AE35BBB.cache.js
+user.agent safari
 
 Devmode:devmode.js
